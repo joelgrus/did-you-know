@@ -34,8 +34,16 @@
       "Months that begin on a Sunday will always have a <b>Monday the 2nd</b>.",
       "'Pablo' is the Spanish equivalent of the English name 'Pabl'.",
       "The smallest natural number that cannot be described in less than twenty words is <b>seventeen</b>.",
-      "There is an island whose inhabitants always tell the truth.",
-      
+      "The most common name in the world is <b>Rüdiger</b>.",
+      "Although Diet Coke was introduced in 1982, it was not actually <b>invented</b> until 1991.",
+      "If you reverse the letters in 'stressed', it spells <b>relaxed</b>.",
+      "The largest number of children ever born to a single woman is <b>four</b>.",
+      "Minus 40 degrees Celsius is the <b>exact same temperature</b> as minus 50 degrees Celcius.",
+      "The elephant is the only animal who never forgets.",
+      "More than 20 people enjoy Major League Baseball games each year.",
+      "The only state with a one-syllable name is <b>Iowa</b>.",
+      "The only letter that does not appear in a single US state name is <b>F</b>.",
+      "Gravity is stronger at night."      
     ];
 
     $('#did-you-know').html(didYouKnows[Math.floor(Math.random()*didYouKnows.length)]);
